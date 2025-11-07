@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/4th.webp</file>
+        <file>images/lastpage.jpg</file>
+    </qresource>
+</RCC>

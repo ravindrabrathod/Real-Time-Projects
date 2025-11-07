@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2">
+        <file>images/1st page.jpg</file>
+        <file>images/2nd page.jpeg</file>
+        <file>images/3rd page.webp</file>
+        <file>images/lastpage.jpg</file>
+    </qresource>
+</RCC>
